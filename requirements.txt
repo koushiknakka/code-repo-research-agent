@@ -1,2 +1,7 @@
 llama-index
 llama-index-readers-file
+llama-index-embeddings-google-genai
+dotenv
+llama-index-vector-stores-qdrant
+llama-index-embeddings-fastembed
+llama-index-llms-google-genai
