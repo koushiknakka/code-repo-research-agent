@@ -5,3 +5,6 @@ dotenv
 llama-index-vector-stores-qdrant
 llama-index-embeddings-fastembed
 llama-index-llms-google-genai
+
+qdrant_client
+fastembed

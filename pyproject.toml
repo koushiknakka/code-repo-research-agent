@@ -6,10 +6,12 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "dotenv>=0.9.9",
+    "fastembed>=0.8.0",
     "llama-index>=0.14.22",
     "llama-index-embeddings-fastembed>=0.6.0",
     "llama-index-embeddings-google-genai>=0.5.1",
     "llama-index-llms-google-genai>=0.9.5",
     "llama-index-readers-file>=0.6.0",
     "llama-index-vector-stores-qdrant>=0.10.1",
+    "qdrant-client>=1.18.0",
 ]
